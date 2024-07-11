@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sat Prakash Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate full stack developer with a knack for turning ideas into reality through code. With a strong foundation in both front-end and back-end technologies, I love creating seamless and efficient web applications that provide an exceptional user experience. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. Whether it's building dynamic web interfaces or designing robust server-side architectures, I thrive on solving complex problems and delivering high-quality solutions.
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satprakash-1" alt="satprakash-1" /></a> </p>
 
